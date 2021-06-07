@@ -6,23 +6,32 @@
     <description>Recent content in Videoes on Morgan Button</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Jun 2021 22:01:39 -0400</lastBuildDate><atom:link href="https://morganbutton.github.io/morganBlogNew/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jun 2021 01:45:38 -0400</lastBuildDate><atom:link href="https://morganbutton.github.io/morganBlogNew/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testvid</title>
-      <link>https://morganbutton.github.io/morganBlogNew/video/testvid/</link>
-      <pubDate>Sun, 06 Jun 2021 22:01:39 -0400</pubDate>
+      <title>Testvid02</title>
+      <link>https://morganbutton.github.io/morganBlogNew/video/testvid02/</link>
+      <pubDate>Mon, 07 Jun 2021 01:45:38 -0400</pubDate>
       
-      <guid>https://morganbutton.github.io/morganBlogNew/video/testvid/</guid>
-      <description>Youtube Video Heading   MP4 Video Heading There should have been a video here but your browser does not seemto support it.</description>
+      <guid>https://morganbutton.github.io/morganBlogNew/video/testvid02/</guid>
+      <description>Youtube Video Heading   MP4 Video Heading There should have been a video here but your browser does not seemto support it. </description>
     </item>
     
     <item>
-      <title>Vid01</title>
-      <link>https://morganbutton.github.io/morganBlogNew/video/vid01/</link>
-      <pubDate>Sun, 06 Jun 2021 21:21:33 -0400</pubDate>
+      <title>Testvid03</title>
+      <link>https://morganbutton.github.io/morganBlogNew/video/testvid03/</link>
+      <pubDate>Mon, 07 Jun 2021 01:45:20 -0400</pubDate>
       
-      <guid>https://morganbutton.github.io/morganBlogNew/video/vid01/</guid>
-      <description>Youtube Video Heading   MP4 Video Heading There should have been a video here but your browser does not seemto support it.</description>
+      <guid>https://morganbutton.github.io/morganBlogNew/video/testvid03/</guid>
+      <description>Youtube Video Heading   MP4 Video Heading There should have been a video here but your browser does not seemto support it. </description>
+    </item>
+    
+    <item>
+      <title>Testvid01</title>
+      <link>https://morganbutton.github.io/morganBlogNew/video/testvid01/</link>
+      <pubDate>Mon, 07 Jun 2021 01:44:15 -0400</pubDate>
+      
+      <guid>https://morganbutton.github.io/morganBlogNew/video/testvid01/</guid>
+      <description>Youtube Video Heading   MP4 Video Heading There should have been a video here but your browser does not seemto support it. </description>
     </item>
     
   </channel>
