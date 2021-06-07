@@ -26,7 +26,7 @@ pygmentscodefencesguesssyntax = true
   name = "Home"
   weight = 10
   identifier = "home"
-  url = "{{ .Site.BaseUrl }}"
+  url = "https://morganbutton.github.io/morganBlogNew/"
 [[menu.main]]
   name = "Blog"
   weight = 20
