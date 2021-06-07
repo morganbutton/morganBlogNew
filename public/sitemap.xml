@@ -2,10 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://morganbutton.github.io/morganBlogNew/categories/</loc>
-  </url><url>
     <loc>https://morganbutton.github.io/morganBlogNew/</loc>
+    <lastmod>2021-06-06T22:01:39-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/morganBlogNew/tags/posts/</loc>
+    <lastmod>2021-06-06T22:01:39-04:00</lastmod>
   </url><url>
     <loc>https://morganbutton.github.io/morganBlogNew/tags/</loc>
+    <lastmod>2021-06-06T22:01:39-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/morganBlogNew/video/testvid/</loc>
+    <lastmod>2021-06-06T22:01:39-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/morganBlogNew/tags/video/</loc>
+    <lastmod>2021-06-06T22:01:39-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/morganBlogNew/video/</loc>
+    <lastmod>2021-06-06T22:01:39-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/morganBlogNew/posts/post01/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/morganBlogNew/posts/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/morganBlogNew/video/vid01/</loc>
+    <lastmod>2021-06-06T21:21:33-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/morganBlogNew/tags/3d/</loc>
+    <lastmod>2021-06-06T21:21:07-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/morganBlogNew/models/</loc>
+    <lastmod>2021-06-06T21:21:07-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/morganBlogNew/models/tresd01/</loc>
+    <lastmod>2021-06-06T21:21:07-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/morganBlogNew/categories/</loc>
   </url>
 </urlset>

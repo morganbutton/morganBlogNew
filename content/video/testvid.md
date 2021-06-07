@@ -2,7 +2,7 @@
 ---
 title: "Testvid"
 date: 2021-06-06T22:01:39-04:00
-draft: true
+draft: false
 tags: ['posts', 'video']
 ---
 
