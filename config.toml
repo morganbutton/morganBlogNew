@@ -26,12 +26,12 @@ pygmentscodefencesguesssyntax = true
   name = "Home"
   weight = 10
   identifier = "home"
-  url = "https://morganbutton.github.io/morganBlogNew"
+  url = "{{ $.Site.BaseURL }}"
 [[menu.main]]
   name = "Blog"
   weight = 20
   identifier = "blog"
-  url = "https://morganbutton.github.io/morganBlogNew/tags/posts/"
+  url = "{{ $.Site.BaseURL }}tags/posts/"
 [[menu.main]]
   name = "Tags"
   weight = 30
@@ -41,17 +41,17 @@ pygmentscodefencesguesssyntax = true
   name = "Video"
   weight = 40
   identifier = "video"
-  url = "https://morganbutton.github.io/morganBlogNew/tags/video"
+  url = "{{ $.Site.BaseURL }}tags/video"
 [[menu.main]]
   name = "3D"
   weight = 40
   identifier = "3D"
-  url = "https://morganbutton.github.io/morganBlogNew/tags/3D"
+  url = "{{ $.Site.BaseURL }}tags/3D"
 [[menu.main]]
   name = "Code"
   weight = 40
   identifier = "code"
-  url = "https://morganbutton.github.io/morganBlogNew/tags/code"
+  url = "{{ $.Site.BaseURL }}tags/code"
 
 [params]
   subTitle = "My Portfolio/Blog Site"                                       # site's subTitle              # 网站二级标题
