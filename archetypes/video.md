@@ -12,4 +12,4 @@ tags: ['posts', 'video']
 
 
 ## MP4 Video Heading
- {{< video  src="https://morganbutton.github.io/morganBlogNew/videos/placeholdvid.mp4/" type="video/mp4" preload="auto" >}}
+ {{< video  src="/videos/placeholdvid.mp4/" type="video/mp4" preload="auto" >}}
